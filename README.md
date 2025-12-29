@@ -58,7 +58,7 @@ Try out **Prescripto** using the links and demo credentials below for each user 
 
 ### 👨‍⚕️ Demo Doctor Login
 
-- **Email:** rishu@gmail.com
+- **Email:** reshme@gmail.com
 - **Password:** 12345678
 
 ### 🙍‍♂️ Demo User Login
