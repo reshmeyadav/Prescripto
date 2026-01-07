@@ -172,5 +172,5 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ---
 
 <p align="center"> 
-<b>Made with ❤ by Pranshu Tomer and contributors.</b>
+<b>Made with ❤ by Reshme Yadav  contributors.</b>
 </p>
